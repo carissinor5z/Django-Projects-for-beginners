@@ -17,7 +17,7 @@ If you are a beginner, you can check out these projects and contribute your own 
 
 
 ************
-What to do ? 
+How to implement?
 ************
 
 * Create a basic Django project, such as a simple blog, a to-do list app, or a basic e-commerce site.
